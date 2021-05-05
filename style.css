@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+
+.page-wrapper{
+    background-color: rgb(208, 208, 236);
+    width: 620px;
+    height: 400px;
+    margin-left: 370px;
+    margin-top: 109px;
+    border-radius: 10px;
+}
+
+.top-wrapper{
+    background-color: rgb(62, 211, 75);
+    width: 377px;
+    height: 100px;
+    margin-left: 122px;
+}
+
+.mid-wrapper{
+    background-color: burlywood;
+    width: 377px;
+    height: 200px;
+    margin-left: 122px;
+}
+
+.bottom-wrapper{
+    background-color: rgb(192, 101, 41);
+    width: 377px;
+    height: 100px;
+    margin-left: 122px;
+}
