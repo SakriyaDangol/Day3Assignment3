@@ -1,33 +1,33 @@
 *{
-    margin: 0px;
+    margin: 0%;
 }
 
 .page-wrapper{
     background-color: rgb(208, 208, 236);
-    width: 620px;
-    height: 400px;
-    margin-left: 370px;
-    margin-top: 109px;
+    width: 50%;
+    height: 70vh;
+    margin: auto;
+    margin-top: 7.5%;
     border-radius: 10px;
 }
 
 .top-wrapper{
-    background-color: rgb(62, 211, 75);
-    width: 377px;
-    height: 100px;
-    margin-left: 122px;
+    background-color:lime;
+    width: 60%;
+    height: 22%;
+    margin: auto;
 }
 
 .mid-wrapper{
     background-color: burlywood;
-    width: 377px;
-    height: 200px;
-    margin-left: 122px;
+    width: 60%;
+    height: 56%;
+    margin: auto;
 }
 
 .bottom-wrapper{
     background-color: rgb(192, 101, 41);
-    width: 377px;
-    height: 100px;
-    margin-left: 122px;
+    width: 60%;
+    height: 22%;
+    margin: auto;
 }
